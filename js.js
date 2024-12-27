@@ -19,9 +19,13 @@
 //     console.log(sum1 + sum2)
 // }
 // fanon(10000000000,3467709887654233)
-
-function fanon(){
-    console.log("rhtugurtuthughh")
-    console.log("rhtugurtuthughh")
-    console.log("rhtugurtuthughh")
-}
+// var jrj = [3,45,77,100987]
+// var i = 0;
+// function fanon(){
+//   for(let numberr of jrj){
+//     i = i + numberr;
+//   }
+//   return i
+// }
+// fanon()
+// console.log(i)
